@@ -10,7 +10,6 @@ then start coding.\
 After you are done, then make sure to create a PR.
 
 # Plans
-- [ ] Setup React Router
 - [ ] For front page, copy more of the site.
 - [ ] For second page, find a pdf viewer etc. And set up confetti.
 - [ ] Refactor theme, bc top and bottom of layout is always the same, so make one theme use twice. (low prio)
